@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Lecturer (assistant professor) at the University of Edinburgh. I am generally interested in how data can be used to understand and improve the world we live in.
+
+You can also find me on Github at [ogletrees](https://github.com/ogletrees)
